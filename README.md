@@ -36,16 +36,17 @@ O Herói tem uma média de vitorias de 535 e está na patente Imortal
 ```
 ## 📁 Arquivo
 
-  index.js — Código-fonte com a lógica de cálculo e classificação.
+  * index.js — Código-fonte com a lógica de cálculo e classificação.
 
 ## 🛠️ Tecnologias utilizadas
 
-  JavaScript (Node.js)
-
-  Editor de código (VSCode ou outro de sua preferência)
+  * JavaScript (Node.js)
+  * VSCode (Editor de Código)
 
 ## 👨‍🎓 Autor
 
 Desenvolvido por mim como parte da formação oferecida pela DIO.
+
+---
 
 🧠 Um projeto essencial para aprender e reforçar a lógica com funções e condicionais em JavaScript!
